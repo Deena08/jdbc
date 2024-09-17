@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 17 23:21:06 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0192-011c-0595-00000eb07b28 
+on database directory D:\tcs java\AdvProgramming\TcsDataBase1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/D:/tcs%20java/DerbyJdbcDriver/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.2+9-70
+user.dir=D:\tcs java\AdvProgramming
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
